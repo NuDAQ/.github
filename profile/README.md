@@ -20,13 +20,13 @@ For private or unfinished content, you can use the [.public](https://github.com/
 
 Some repositories are intended for public access or release. These repositories will be explicitly marked. They adhere to stricter development guidelines, such as prohibiting direct modifications to the main branch. For these repositories: With great power comes great responsibility.
 
-Here is a list for those repositories:
+Here is a list of those repositories:
 
 | Repository | Link |
 |---|---|
 | AI-Trigger-System (Private for now) | https://github.com/NuDAQ/AI-Trigger-System |
-| pico4ATS | https://github.com/NuDAQ/pico4ATS |
-| iDMA4ATS | https://github.com/NuDAQ/iDMA4ATS |
-| axi4ATS | https://github.com/NuDAQ/axi4ATS |
+| pico4NuDAQ | https://github.com/NuDAQ/pico4NuDAQ |
+| iDMA | https://github.com/NuDAQ/iDMA |
+| axi | https://github.com/NuDAQ/axi |
 
 
