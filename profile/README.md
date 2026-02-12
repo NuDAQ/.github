@@ -25,6 +25,8 @@ Here is a list of those repositories:
 | Repository | Link |
 |---|---|
 | AI-Trigger-System (Private for now) | https://github.com/NuDAQ/AI-Trigger-System |
+| CNN-Core-Wrapper | https://github.com/NuDAQ/CNN-Core-Wrapper |
+| CNN-Core-Generator | https://github.com/NuDAQ/CNN-Core-Generator |
 | pico4NuDAQ | https://github.com/NuDAQ/pico4NuDAQ |
 | iDMA | https://github.com/NuDAQ/iDMA |
 | axi | https://github.com/NuDAQ/axi |
